@@ -21,7 +21,7 @@ Ask questions, get answers grounded in the actual document.
 ## 🚀 Progress
 - [x] Day 1 — Local AI setup with Ollama
 - [x] Day 2 — PDF reading and chunking
-- [ ] Day 3 — Embeddings and ChromaDB
+- [x] Day 3 — Embeddings and ChromaDB
 - [ ] Day 4 — RAG chain
 - [ ] Day 5 — Streamlit UI
 
