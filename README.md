@@ -27,7 +27,7 @@ Ask questions, get answers grounded in the actual document.
 
 ## ⚙️ Setup
 ```bash
-git clone https://github.com/YOURUSERNAME/study-buddy
+git clone https://github.com/Mariem1233/study-buddy
 cd study-buddy
 python -m venv venv
 venv\Scripts\activate
