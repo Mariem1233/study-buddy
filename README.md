@@ -23,7 +23,7 @@ Ask questions, get answers grounded in the actual document.
 - [x] Day 2 — PDF reading and chunking
 - [x] Day 3 — Embeddings and ChromaDB
 - [x] Day 4 — RAG chain
-- [ ] Day 5 — Streamlit UI
+- [x] Day 5 — Streamlit UI
 
 ## ⚙️ Setup
 ```bash
@@ -36,4 +36,4 @@ ollama pull mistral:7b
 ```
 
 ## 📌 Status
-🔨 In Progress — Building week by week
+✅ Complete — Working local RAG app
